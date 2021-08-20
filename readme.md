@@ -1,4 +1,4 @@
-#Slash Commands in Discord.js
+# Slash Commands in Discord.js
 
 Official resources  https://discord.js.org
 - Command handle

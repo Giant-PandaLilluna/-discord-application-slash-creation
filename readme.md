@@ -1,6 +1,6 @@
 #Slash Commands in Discord.js
 
-Official resources  https://discord.js.org/
+Official resources  https://discord.js.org
 - Command handle
 - Events handle
 - Individual command files
